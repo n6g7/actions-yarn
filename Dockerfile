@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:8.10
 
 LABEL version="1.1.0"
 LABEL repository="https://github.com/Borales/actions-yarn"
